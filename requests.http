@@ -1,0 +1,10 @@
+###
+
+POST http://localhost:5000/usuario HTTP/1.1
+Content-Type: application/json
+
+{
+"nome": "Serena Kornalewski da Silva",
+"email": "kornalewski@outlook.com",
+"telefone": "51-9819-99010"
+}
